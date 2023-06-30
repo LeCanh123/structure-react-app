@@ -1,10 +1,12 @@
-import logo from './logo.svg';
 import './App.scss';
+import Loading from '@components/Loadings/Loading.jsx';
+
+
 
 function App() {
   return (
     <div className="App">
-      123
+      <Loading></Loading>
     </div>
   );
 }
