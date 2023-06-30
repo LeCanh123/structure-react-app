@@ -11,8 +11,11 @@ npm i concurrently
 "start": "concurrently \"npm run start-app\" \"npm run start-server\"",
 ##
 npm i craco
+--alias
 ##
+npm i react-router-dom
 ##
+BrowserRouter
 ##
 ##
 ##
